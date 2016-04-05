@@ -1,7 +1,7 @@
 package account
 
 type Account struct {
-	key          int
+	id           int
 	transactions []Transaction
 }
 
